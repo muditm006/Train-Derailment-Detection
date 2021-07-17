@@ -1,3 +1,1 @@
-# Train Derailment Detection
-
-The objective is to code a program that when inputted a video of a train running its route, will process it, find the risk of derailment by determining if the train is turning, and return a colored signal displaying the risk.
+The objective is to code a program that when inputted a video of a train running its route, will process it, find the risk of derailment by determining if the train is turning, and return a colored signal displaying the risk. If there is a risk, there will be a yellow circle. If there is not a risk, there will be a green circle. The program will be written using several imported libraries: argparse, cv2, NumPy, Math, and build in methods including cv2.Hough_Lines() (for creating and overlaying the line), Hough_Gradient() (for identifying the lines), and cv2.getPerspective() and related libraries to work with the 3D pictures transformations. All libraries are native to Python. 
