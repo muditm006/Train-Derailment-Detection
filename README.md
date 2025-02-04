@@ -46,7 +46,7 @@ This project is a Python-based program designed to analyze video footage of trai
 ## How to Use
 
 1. Clone this repository to your local machine:
-git clone https://github.com/yourusername/Train-Derailment-Detection.git
+git clone https://github.com/muditm006/Train-Derailment-Detection.git
 cd Train-Derailment-Detection
 
 2. Install the required Python libraries:
